@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Morgan's Room - Old URL</title>
+	<link rel="stylesheet" href="styles.css">
+	<style>
+		.grid-container {
+		  display: grid;
+		  grid-template-columns: 300px 300px 300px;
+		  padding: 1px;
+		  align-items: center;
+		  justify-content:center;
+		}
+		.grid-container2 {
+		  display: grid;
+		  grid-template-columns: 320px 240px;
+		  padding: 1px;
+		  align-items: center;
+		  justify-content:center;
+		}
+		.grid-item {
+  		  border: 1px solid rgba(0, 0, 0, 0.8);
+		}
+        .space-item {
+       		  margin-bottom: 1cm;
+        }
+		hr {
+		  display: block;
+		  margin-top: 0.5em;
+		  margin-bottom: 0.5em;
+		  margin-left: auto;
+		  margin-right: auto;
+		  border-style: inset;
+		  border-width: 1px;
+		}
+	</style>
+</head>
+<body background="background.png">
+    <!--I am not sure if this page will show but hopefully it will because the "mywebsite" page is just the main page but not updated.--->
+    <p>The home page has moved!</p>
+    <p><a href="morganb99.github.io">go home</a></p>
+</body>
+</html>
